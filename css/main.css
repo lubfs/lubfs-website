@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box; }
+
+
+body {
+  background: #0e2c73;
+  color: black;
+  height: 100%;
+  margin: 0;
+  font-weight: bold;
+  font-family: 'Segoe UI', Helvetica, Verdana, sans-serif; 
+}
+
+#main-footer-index {
+  color: #fad00c;
+}
+
+.h1{
+  color: white;
+}
+.h5{
+  color: #fad00c;
+  margin: auto;
+  width: 50%;
+  padding: 5px;
+}
+
+body#bg {
+  background: url(../images/canarywharfnight.jpg);
+  background-attachment: fixed;
+  background-size: cover; }
+  body#bg:after {
+    content: '';
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background: rgba(51, 51, 51, 0.8); }
+
+main {
+  padding: 4rem;
+  min-height: calc(100vh - 80px);
+  height: 100%;
+  /* Width of the main content - all the informatinon basically apart from the navigation menu */
+  width: 95%; }
+  main .icons {
+    margin-top: 2rem; }
+    main .icons a {
+      padding: 0.45rem; }
+      main .icons a:hover {
+        color: #fad00c;
+        transition: all 0.5s ease-out; }
+  main#home {
+    overflow: hidden; }
+    main#home h1 {
+      margin-top: 16vh; }
