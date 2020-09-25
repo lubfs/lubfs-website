@@ -11,3 +11,4 @@ LUBFS Pages:
 - LinkedIn: https://www.linkedin.com/company/liverpool-banking-and-finance-society/ 
 - Facebook: https://www.facebook.com/uolbfs
 - Instagram: https://www.instagram.com/livunibfs/
+- Website (Soon) - https://lubfs.github.io/lubfs-website/
