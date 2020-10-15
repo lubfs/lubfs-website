@@ -15,7 +15,7 @@ a:hover {
 .btn-secondary:focus {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
+  background: url(https://raw.githubusercontent.com/lubfs/lubfs-website/master/images/canarywharfnight.jpg);
   border: .05rem solid #fff;
 }
 
