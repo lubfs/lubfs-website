@@ -113,7 +113,7 @@ body {
   color: #fff;
   font-weight: bold;
   z-index: 1;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .about-pFREE{
@@ -121,7 +121,7 @@ body {
   font-weight: bold;
   font-style: italic;
   z-index: 1;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 
@@ -176,12 +176,29 @@ body {
   z-index: 1;
   font-weight: bold;
 }
+
+
 @media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
   a,
 a:focus,
 a:hover {
   color: #0e2c73;
   z-index: 1;
+}
+  
+.about-p{
+  color: #fff;
+  font-weight: bold;
+  z-index: 1;
+  font-size: 22px;
+}
+
+.about-pFREE{
+  color:#39e600;
+  font-weight: bold;
+  font-style: italic;
+  z-index: 1;
+  font-size: 20px;
 }
 
 /* Custom default button */
@@ -193,6 +210,21 @@ a:hover {
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #0e2c73;
   border: .05rem solid #fff;
+}
+  
+.about-p{
+  color: #fff;
+  font-weight: bold;
+  z-index: 1;
+  font-size: 22px;
+}
+
+.about-pFREE{
+  color:#39e600;
+  font-weight: bold;
+  font-style: italic;
+  z-index: 1;
+  font-size: 20px;
 }
 .nav-link-contact{
   color: #fff;
