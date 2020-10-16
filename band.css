@@ -88,7 +88,8 @@ body {
 }
 
 .nav-link:hover{
-  color: #e1b905;
+  color: #967b03;
+  border-bottom-color: #967b03;
 }
 
 .nav-masthead .nav-link:hover,
