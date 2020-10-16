@@ -137,6 +137,10 @@ body {
   z-index: 1;
 }
 
+.cover-heading{
+  font-weight: bold;
+}
+
 
 /*
  * Footer
