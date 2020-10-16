@@ -219,6 +219,25 @@ a:hover {
   z-index: 1;
   font-size: 22px;
 }
+  
+.masthead-brand {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #0e2c73;
+  font-family: Helvetica, "Segoe UI", Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.nav-masthead .nav-link {
+  z-index: 1;
+  padding: .25rem 0;
+  font-weight: 700;
+  color: #fff;
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+  font-size: 20px;
+}
 
 .about-pFREE{
   color:#39e600;
@@ -230,7 +249,7 @@ a:hover {
 .nav-link-contact{
   color: #fff;
   font-weight: 800;
-  font-size: 42px;
+  font-size: 58px;
   z-index: 1;
 }
   .nav-link-opportunities{
@@ -274,6 +293,25 @@ a:hover {
   z-index: 1;
   padding: 20px;
   
+}
+  
+.masthead-brand {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #0e2c73;
+  font-family: Helvetica, "Segoe UI", Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.nav-masthead .nav-link {
+  z-index: 1;
+  padding: .25rem 0;
+  font-weight: 700;
+  color: #fff;
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+  font-size: 20px;
 }
 
     }
