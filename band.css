@@ -194,6 +194,12 @@ a:hover {
   background-color: #0e2c73;
   border: .05rem solid #fff;
 }
+.nav-link-contact{
+  color: #fff;
+  font-weight: 800;
+  font-size: 32px;
+  z-index: 1;
+}
   .nav-link-opportunities{
   color: #fff;
   font-weight: 900;
@@ -220,6 +226,13 @@ a:hover {
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #0e2c73;
   border: .05rem solid #fff;
+}
+
+.nav-link-contact{
+  color: #fff;
+  font-weight: 800;
+  font-size: 32px;
+  z-index: 1;
 }
   .nav-link-opportunities{
   color: #fff;
