@@ -32,7 +32,7 @@ body {
   background: url(images/city.png);
   background-repeat: no-repeat;
   background-position: center; /* Center the image */
-  background-size: cover;}
+  background-size: contain;}
   body:after {
     content: '';
     position: fixed;
