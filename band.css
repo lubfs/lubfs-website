@@ -249,7 +249,11 @@ a:hover {
 .nav-link-contact{
   color: #fff;
   font-weight: 800;
-  font-size: 58px;
+  font-size: 56px;
+  z-index: 1;
+}
+.cover-container {
+  max-width: 64em;
   z-index: 1;
 }
   .nav-link-opportunities{
@@ -283,7 +287,7 @@ a:hover {
 .nav-link-contact{
   color: #fff;
   font-weight: 800;
-  font-size: 42px;
+  font-size: 64px;
   z-index: 1;
 }
   .nav-link-opportunities{
@@ -313,5 +317,8 @@ a:hover {
   border-bottom: .25rem solid transparent;
   font-size: 36px;
 }
-
+.cover-container {
+  max-width: 64em;
+  z-index: 1;
+}
     }
