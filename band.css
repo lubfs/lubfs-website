@@ -181,4 +181,15 @@ body {
   padding: 10px;
   
 }
+  
+@media only screen and (max-width: 720px), only screen and (max-device-width: 720px) {
+  .nav-link-opportunities{
+  color: #fff;
+  font-weight: 900;
+  font-size: 26px;
+  z-index: 1;
+  padding: 12px;
+  
+}
+
     }
