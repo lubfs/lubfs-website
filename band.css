@@ -151,10 +151,9 @@ body {
 .nav-link-contact{
   color: #fff;
   font-weight: 800;
-  font-size: 24px;
-  margin-bottom: 16px;
+  font-size: 28px;
+  margin-bottom: 26px;
   z-index: 1;
-  background-color:#fad00c;
   
 }
 
@@ -163,8 +162,7 @@ body {
   font-weight: 900;
   font-size: 20px;
   z-index: 1;
-  margin-bottom: 24px;
-  background-color:#fad00c;
+  margin-bottom: 38px;
   
 }
 
