@@ -235,7 +235,7 @@ a:hover {
   color: #0e2c73;
   font-family: Helvetica, "Segoe UI", Verdana, sans-serif;
   font-weight: bold;
-  font-size: 42px;
+  font-size: 38px;
 }
 
 .nav-masthead .nav-link {
@@ -245,7 +245,7 @@ a:hover {
   color: #fff;
   background-color: transparent;
   border-bottom: .25rem solid transparent;
-  font-size: 36px;
+  font-size: 28px;
 }
 
 .about-pFREE{
@@ -253,12 +253,12 @@ a:hover {
   font-weight: bold;
   font-style: italic;
   z-index: 1;
-  font-size: 20px;
+  font-size: 18px;
 }
 .nav-link-contact{
   color: #fff;
   font-weight: 800;
-  font-size: 56px;
+  font-size: 68px;
   z-index: 1;
   padding: 4px;
 }
@@ -269,7 +269,7 @@ a:hover {
   .nav-link-opportunities{
   color: #fff;
   font-weight: 900;
-  font-size: 42px;
+  font-size: 36px;
   z-index: 1;
   padding: 4px;
   
@@ -297,14 +297,14 @@ a:hover {
 .nav-link-contact{
   color: #fff;
   font-weight: 800;
-  font-size: 64px;
+  font-size: 82px;
   z-index: 1;
   padding: 4px;
 }
   .nav-link-opportunities{
   color: #fff;
   font-weight: 900;
-  font-size: 42px;
+  font-size: 34px;
   z-index: 1;
   padding: 4px;
   
@@ -316,7 +316,7 @@ a:hover {
   color: #0e2c73;
   font-family: Helvetica, "Segoe UI", Verdana, sans-serif;
   font-weight: bold;
-  font-size: 42px;
+  font-size: 38px;
 }
 
 .nav-masthead .nav-link {
@@ -326,7 +326,7 @@ a:hover {
   color: #fff;
   background-color: transparent;
   border-bottom: .25rem solid transparent;
-  font-size: 36px;
+  font-size: 32px;
 }
 .cover-container {
   max-width: 64em;
