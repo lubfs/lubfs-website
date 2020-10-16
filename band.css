@@ -15,10 +15,10 @@ a:hover {
 .btn-secondary:hover,
 .btn-secondary:focus {
   z-index: 1;
-  color: #fff;
+  color: #0e2c73;
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
-  border: .05rem solid #fff;
+  border: .05rem solid #0e2c73;
 }
 
 
