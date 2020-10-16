@@ -159,7 +159,7 @@ body {
   font-size: 44px;
   margin-bottom: 12px;
   z-index: 1;
-  padding: 8px;
+  padding: 4px;
   
 }
 
@@ -168,7 +168,7 @@ body {
   font-weight: 900;
   font-size: 24px;
   z-index: 1;
-  padding: 8px;
+  padding: 4px;
   
 }
 
@@ -252,7 +252,7 @@ a:hover {
   font-weight: 800;
   font-size: 56px;
   z-index: 1;
-  padding: 7px;
+  padding: 4px;
 }
 .cover-container {
   max-width: 64em;
@@ -263,7 +263,7 @@ a:hover {
   font-weight: 900;
   font-size: 42px;
   z-index: 1;
-  padding: 7px;
+  padding: 4px;
   
 }
   
@@ -291,14 +291,14 @@ a:hover {
   font-weight: 800;
   font-size: 64px;
   z-index: 1;
-  padding: 7px;
+  padding: 4px;
 }
   .nav-link-opportunities{
   color: #fff;
   font-weight: 900;
   font-size: 42px;
   z-index: 1;
-  padding: 7px;
+  padding: 4px;
   
 }
   
