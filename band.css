@@ -156,6 +156,14 @@ body {
   
 }
 
+.nav-link-opportunities{
+  color: #fff;
+  font-weight: 800;
+  font-size: 18px;
+  z-index: 1;
+  
+}
+
 .notice{
   font-size: 18px;
   color: #fff;
